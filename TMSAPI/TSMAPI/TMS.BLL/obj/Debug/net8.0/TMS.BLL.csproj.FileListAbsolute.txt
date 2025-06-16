@@ -1,0 +1,17 @@
+D:\TMSAPI\TSMAPI\TMS.BLL\bin\Debug\net8.0\TMS.BLL.deps.json
+D:\TMSAPI\TSMAPI\TMS.BLL\bin\Debug\net8.0\TMS.BLL.dll
+D:\TMSAPI\TSMAPI\TMS.BLL\bin\Debug\net8.0\TMS.BLL.pdb
+D:\TMSAPI\TSMAPI\TMS.BLL\bin\Debug\net8.0\TMS.Common.dll
+D:\TMSAPI\TSMAPI\TMS.BLL\bin\Debug\net8.0\TMS.Common.pdb
+D:\TMSAPI\TSMAPI\TMS.BLL\obj\Debug\net8.0\TMS.BLL.csproj.AssemblyReference.cache
+D:\TMSAPI\TSMAPI\TMS.BLL\obj\Debug\net8.0\TMS.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\TMSAPI\TSMAPI\TMS.BLL\obj\Debug\net8.0\TMS.BLL.AssemblyInfoInputs.cache
+D:\TMSAPI\TSMAPI\TMS.BLL\obj\Debug\net8.0\TMS.BLL.AssemblyInfo.cs
+D:\TMSAPI\TSMAPI\TMS.BLL\obj\Debug\net8.0\TMS.BLL.csproj.CoreCompileInputs.cache
+D:\TMSAPI\TSMAPI\TMS.BLL\obj\Debug\net8.0\TMS.BLL.csproj.Up2Date
+D:\TMSAPI\TSMAPI\TMS.BLL\obj\Debug\net8.0\TMS.BLL.dll
+D:\TMSAPI\TSMAPI\TMS.BLL\obj\Debug\net8.0\refint\TMS.BLL.dll
+D:\TMSAPI\TSMAPI\TMS.BLL\obj\Debug\net8.0\TMS.BLL.pdb
+D:\TMSAPI\TSMAPI\TMS.BLL\obj\Debug\net8.0\ref\TMS.BLL.dll
+D:\TMSAPI\TSMAPI\TMS.BLL\bin\Debug\net8.0\TMS.DAL.dll
+D:\TMSAPI\TSMAPI\TMS.BLL\bin\Debug\net8.0\TMS.DAL.pdb

@@ -1,0 +1,17 @@
+D:\TMSAPI\TSMAPI\TSM.DAL\bin\Debug\net8.0\TSM.DAL.deps.json
+D:\TMSAPI\TSMAPI\TSM.DAL\bin\Debug\net8.0\TSM.DAL.runtimeconfig.json
+D:\TMSAPI\TSMAPI\TSM.DAL\bin\Debug\net8.0\TSM.DAL.dll
+D:\TMSAPI\TSMAPI\TSM.DAL\bin\Debug\net8.0\TSM.DAL.pdb
+D:\TMSAPI\TSMAPI\TSM.DAL\bin\Debug\net8.0\TMS.Common.dll
+D:\TMSAPI\TSMAPI\TSM.DAL\bin\Debug\net8.0\TMS.Common.pdb
+D:\TMSAPI\TSMAPI\TSM.DAL\obj\Debug\net8.0\TSM.DAL.csproj.AssemblyReference.cache
+D:\TMSAPI\TSMAPI\TSM.DAL\obj\Debug\net8.0\TSM.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\TMSAPI\TSMAPI\TSM.DAL\obj\Debug\net8.0\TSM.DAL.AssemblyInfoInputs.cache
+D:\TMSAPI\TSMAPI\TSM.DAL\obj\Debug\net8.0\TSM.DAL.AssemblyInfo.cs
+D:\TMSAPI\TSMAPI\TSM.DAL\obj\Debug\net8.0\TSM.DAL.csproj.CoreCompileInputs.cache
+D:\TMSAPI\TSMAPI\TSM.DAL\obj\Debug\net8.0\TSM.DAL.csproj.Up2Date
+D:\TMSAPI\TSMAPI\TSM.DAL\obj\Debug\net8.0\TSM.DAL.dll
+D:\TMSAPI\TSMAPI\TSM.DAL\obj\Debug\net8.0\refint\TSM.DAL.dll
+D:\TMSAPI\TSMAPI\TSM.DAL\obj\Debug\net8.0\TSM.DAL.pdb
+D:\TMSAPI\TSMAPI\TSM.DAL\obj\Debug\net8.0\TSM.DAL.genruntimeconfig.cache
+D:\TMSAPI\TSMAPI\TSM.DAL\obj\Debug\net8.0\ref\TSM.DAL.dll
